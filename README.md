@@ -8,4 +8,4 @@ the project goes through the following stages:<br />
 5-Code Generation<br />
 
 It handles csv files to extract data through queries on these files<br />
-using plugin #antlr for helping in parsing 
+using plugin # antlr for helping in parsing 
